@@ -4,7 +4,7 @@
   <div class="card-container">
     <div class="header">
       <div class="avatar">
-        <img src="https://q4.qlogo.cn/headimg_dl?dst_uin=208823829&spec=640" alt="avatar" />
+        <img src="https://cravatar.cn/avatar/cf83c746b212c3f222b1c0a41bbf5b86?d=mp&s=80" alt="avatar" />
       </div>
       <div class="info">
         <div class="name">启涵</div>
