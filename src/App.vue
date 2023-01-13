@@ -7,7 +7,7 @@
         <img src="https://q4.qlogo.cn/headimg_dl?dst_uin=208823829&spec=640" alt="avatar" />
       </div>
       <div class="info">
-        <div class="name">iYuan</div>
+        <div class="name">启涵</div>
         <div class="desc">一个似乎啥也不会的人</div>
         <div class="navbar">
           <a href="https://www.codeqihan.com" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-newspaper"></i>博客</a>
