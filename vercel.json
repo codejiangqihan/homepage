@@ -4,7 +4,7 @@
         "source": "/(.*)",
         "headers": [{
                 "key": "Access-Control-Allow-Origin",
-                "value": "https://iyuan.ltd"
+                "value": "https://1id.top"
             },
             {
                 "key": "X-Content-Type-Options",
