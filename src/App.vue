@@ -10,9 +10,7 @@
         <div class="name">启涵</div>
         <div class="desc">一个除了scratch、python和HTML，其它啥都不会的人</div>
         <div class="navbar">
-          <div>
-            <a href="https://www.codeqihan.com" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-newspaper"></i>博客</a>
-          </div>
+          <a href="https://www.codeqihan.com" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-newspaper"></i>博客</a>
       </div>
     </div>
 
