@@ -4,13 +4,13 @@
   <div class="card-container">
     <div class="header">
       <div class="avatar">
-        <img src="https://cravatar.cn/avatar/cf83c746b212c3f222b1c0a41bbf5b86?d=mp&s=80" alt="avatar" />
+        <img src="https://ccdn.uso.cc/avatar/cf83c746b212c3f222b1c0a41bbf5b86?d=mp&s=80" alt="avatar" />
       </div>
       <div class="info">
         <div class="name">启涵</div>
         <div class="desc">一个除了scratch、python和HTML，其它啥都不会的人</div>
         <div class="navbar">
-          <a href="https://www.codeqihan.com" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-newspaper"></i>博客</a>
+          <a href="https://blog.1id.top" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-newspaper"></i>博客</a>
       </div>
     </div>
 
