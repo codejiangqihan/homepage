@@ -11,6 +11,7 @@
         <div class="desc">一个除了scratch、python和HTML，其它啥都不会的人</div>
         <div class="navbar">
           <a href="https://blog.1id.top" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-newspaper"></i>博客</a>
+        </div>
       </div>
     </div>
 
