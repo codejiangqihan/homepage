@@ -23,7 +23,6 @@
         <ul>
           <li>Email：<a href="mailto:qh@1id.top">qh@1id.top</a></li>
           <li>Github：<a href="https://github.com/codejiangqihan">@codejiangqihan</a></li>
-          <li>QQ：3517889615</li>
         </ul>
       </div>
     </div>
